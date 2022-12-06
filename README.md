@@ -49,5 +49,5 @@
 <h3> :earth_americas: &nbsp;Où me trouver: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-wadixix@berryheberg.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wadixix@berryheberg.com)](mailto:wadixix@berryheberg.com)
-[![GitHub WaDixix](https://img.shields.io/github/followers/WaDixix?label=follow&style=social)](https://github.com/WaDixix)]
-[![DiscordServer](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.gg/MzUsnvn)]
+[![GitHub WaDixix](https://img.shields.io/github/followers/WaDixix?label=follow&style=social)](https://github.com/WaDixix)
+[![DiscordServer](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.gg/MzUsnvn)

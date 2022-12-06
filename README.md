@@ -1,22 +1,53 @@
-### WaDixix, Developper
+<h3> 🥰 &nbsp;Présentation </h3>
 
-## Stats.
+- 🤔 &nbsp; Explore les nouvelles technologies et développe des solutions logicielles
+- 🎓 &nbsp; Étudie à <a href="https://42.fr">L'école 42</a>.
+- 💼 &nbsp; Fondateur et développeur principale chez <a href="https://berryheberg.com">BerryHeberg</a>
+- 🌱 &nbsp; J'aime créer des bons sites web et aider les autres à faire de même.
 
-[![WaDixix github stats](https://github-readme-stats.vercel.app/api?username=wadixix&show_icons=true&theme=radical&count_private=true)](https://romaingauvin.fr)
+<h3> :rocket: &nbsp;Compétences </h3>
 
-## Tools and API.
+**Language de Programmation**
 
-<p>
-	<a href="https://code.visualstudio.com/"><img width="50px" alt = "VSCode" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png"/></a>
-	<a href="https://github.com/"><img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
-	<a href="https://www.w3schools.com/html/"><img width="50px" alt = "HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
-	<a href="https://www.w3schools.com/css/"><img width="50px" alt = "CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
-	<a href="https://fr.reactjs.org/"><img width="50px" alt = "React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
-	<a href="https://git-scm.com/"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
-	<a href="https://www.docker.com/"><img alt="docker" width="50px" src="https://camo.githubusercontent.com/fd2bfbb5a92b43045b17deace71018df7835c796fc4ddf61099f524ef2ebaf79/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f64382f7374796c65732f726f6c655f69636f6e2f7075626c69632f323031392d30372f4d6f62792d6c6f676f2e706e673f69746f6b3d7359485f4a45614a"/ ></a>
-	<a href="https://getbootstrap.com/"><img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/></a>
-</p>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-### Contact me on:
+**Utilitaires**
 
-[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/MzUsnvn)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Outils de développement**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/WaDixix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaDixix&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Où me trouver: </h3> 
+
+[![Gmail Badge](https://img.shields.io/badge/-wadixix@berryheberg.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wadixix@berryheberg.com)](mailto:wadixix@berryheberg.com)
+[![GitHub WaDixix](https://img.shields.io/github/followers/WaDixix?label=follow&style=social)](https://github.com/WaDixix)]
+[![DiscordServer](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.gg/MzUsnvn)]
